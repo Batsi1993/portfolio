@@ -233,19 +233,18 @@ footer {
 
     .nav {
         text-align: center;
+        background: #73727213;
     }
 
     .nav a {
         font-size: 16px;
         font-weight: bold;
         text-align: center;
-        background-color: #00ddc800;
         padding: 2%;
         margin-bottom: 1%;
         border-radius: 5px;
         display: inline-block;
         width: inherit;
-        color: #00ddc8;
     }
 
 
@@ -413,7 +412,7 @@ header img {
 
 /* Main content */
 
-main {
+main, .divSkills {
     background-color: #73727213;
     width: 95%;
     margin: 0 auto;
