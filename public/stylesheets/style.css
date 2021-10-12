@@ -85,6 +85,12 @@ main {
     padding:0 5% 5%
 }
 
+.divSkills{
+    background-color: #73727213;
+    width: 100%;
+    padding:0 5% 5%
+}
+
 .flex {
     box-sizing: border-box;
 }
@@ -194,7 +200,6 @@ footer {
 
 .last { 
     margin-top: 10%;
-    border-top: 0.5px solid #737272;
     padding: 5% 0;
     display: flex;
     background-color: #73727213;
@@ -339,8 +344,10 @@ footer {
         margin-top:4rem;
     }
 
-    footer h2 {
+    footer h1 {
         color: black;
+        padding-bottom:2rem;
+        font-weight: bold;
     }
 
     .contact-text p {
@@ -428,6 +435,11 @@ main {
     margin: 0 auto;
 }
 
+.divSkills {
+    background-color: #73727213;
+    width: 95%;
+    margin: 0 auto;
+}
 .card {
     text-align: center;
     width: 32%;
